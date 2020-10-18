@@ -1,3 +1,3 @@
 # web-home-page
-for hacktober
+for hacktoberfest
 welcome to myweb
